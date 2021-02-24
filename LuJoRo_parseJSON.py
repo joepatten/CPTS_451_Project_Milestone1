@@ -1,7 +1,7 @@
 import json
 import zipfile
-import os
-os.chdir(r'C:\Users\josep\python_files\CptS_451\project\milestone1')
+# import os
+# os.chdir(r'C:\Users\josep\python_files\CptS_451\project\milestone1')
 
 
 # put data files in data folder
